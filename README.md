@@ -5,5 +5,6 @@ ML Projects:
 - Customer segmentation with K-means Clustering
 - Predicting Cancer class from human cell sample records using Support Vector Machines(SVM)
 - Taxi Tip prediction using Decision Tree Regressor Models (Scikit-Learn & SnapML libraries)
+- Multi-class Classification
 - Predicting house prices for a Real Estate Investment Trust
 - Evaluating and Refining an Automobile Price prediction model
