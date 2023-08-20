@@ -8,3 +8,4 @@ ML Projects:
 - Multi-class Classification
 - Predicting house prices for a Real Estate Investment Trust
 - Evaluating and Refining an Automobile Price prediction model
+- Rain Prediction in Australia using multiple classification algorithms including Logistic Regression, KNN, SVM, Decision       Trees, and Linear Regression. Used multiple metrics- Accuracy Score, Jaccard Index, F1- score, Log loss, etc. for model evaluation
